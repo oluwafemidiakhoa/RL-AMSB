@@ -1,8 +1,3 @@
-Below is a sample README.md you can place in the root of your repository:
-
-markdown
-Copy
-Edit
 # RL-AMSB: Reinforcement Learning-Driven Adaptive Model Selection and Blending
 
 This repository contains a conceptual implementation of **RL-AMSB**, a framework that uses Reinforcement Learning (RL) to adaptively select and blend machine learning models for healthcare prediction tasks. 
